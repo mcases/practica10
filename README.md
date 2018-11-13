@@ -1,1 +1,49 @@
 # practica10
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>EJERCICIO 10 </title>
+<style>
+body{
+background-color:grey
+}
+h1{
+    
+    color: black;
+    font-size:300%;
+text-align: center;
+}
+
+</style>
+    
+</head>
+<body>
+    <h1><strong>YO SOY BATMAN</strong></h1>
+    <hr>
+    <a href="conoceme.html" target="_blank">Conóceme</a>
+    <a href="bruce.html" target="_blank">Mi verdadera identidad </a>
+    <a href="pelis.html" target="_blank">Peliculas que puedes ver sobre mi</a>
+    <a href="curiculum.html" target="_blank">Mi curriculum ampliado</a>
+    <hr>
+    <h2>Perfil Profesional</h2>
+    <br>
+<hr>
+<img src="img/curriculum batman.jpg" alt="batman" width="400" height="500">
+<iframe src="C:\Users\Miguel Angel\Documents\pdf" style="width:500px; height:375px;" frameborder="0"></iframe>
+
+<br>
+<h2>Videos de interés</h2>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EZ9ymE2Rcxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/laKPtOv9Kp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6I3zZ4-szJ0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<h2>Spidey se le está yendo de las manos a Marvel</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2r1yl2xVRac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</body>
